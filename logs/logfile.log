@@ -1,0 +1,4 @@
+INFO  | 2022-10-02 23:13:09 | [main] userregistrationproblem.App (App.java:10) - Regex Practise Problem
+INFO  | 2022-10-02 23:13:09 | [main] userregistrationproblem.UserRegistration (UserRegistration.java:64) - Please enter first name: 
+INFO  | 2022-10-02 23:21:34 | [main] userregistrationproblem.App (App.java:10) - Regex Practise Problem
+INFO  | 2022-10-02 23:21:34 | [main] userregistrationproblem.UserRegistration (UserRegistration.java:27) - Please enter first name: 
