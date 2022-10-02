@@ -23,15 +23,31 @@ public class UserRegistration {
 	}
 
 	void UserRegistrationMain() {
+		String validInvalidFirstName = "invalid";
+		String validInvalidLastName = "invalid";
 
-		logger.info("Please enter first name: ");
-		String firstName = scannerObject.nextLine();
-		String validInvalidFirstName = namePatternMatcher(firstName);
-		if (validInvalidFirstName.equals("valid")) {
-			userObject.setFirstName(firstName);
-			logger.info(userObject.getFirstName());
+		while ((validInvalidFirstName.equals("invalid"))) {
+			logger.info("Please enter first name: ");
+			String firstName = scannerObject.nextLine();
+			validInvalidFirstName = namePatternMatcher(firstName);
+			if (validInvalidFirstName.equals("valid")) {
+				userObject.setFirstName(firstName);
+				logger.info(userObject.getFirstName());
+			} else {
+				logger.info("Invalid input!! Please try again");
+			}
 		}
-
+		while ((validInvalidLastName.equals("invalid"))) {
+			logger.info("Please enter last name: ");
+			String lastName = scannerObject.nextLine();
+			validInvalidLastName = namePatternMatcher(lastName);
+			if (validInvalidLastName.equals("valid")) {
+				userObject.setLastName(lastName);
+				logger.info(userObject.getLastName());
+			} else {
+				logger.info("Invalid input!! Please try again");
+			}
+		}
 		scannerObject.close();
 	}
 
