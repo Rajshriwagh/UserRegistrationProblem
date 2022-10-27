@@ -1,0 +1,35 @@
+INFO  | 2022-10-02 23:13:09 | [main] userregistrationproblem.App (App.java:10) - Regex Practise Problem
+INFO  | 2022-10-02 23:13:09 | [main] userregistrationproblem.UserRegistration (UserRegistration.java:64) - Please enter first name: 
+INFO  | 2022-10-02 23:21:34 | [main] userregistrationproblem.App (App.java:10) - Regex Practise Problem
+INFO  | 2022-10-02 23:21:34 | [main] userregistrationproblem.UserRegistration (UserRegistration.java:27) - Please enter first name: 
+INFO  | 2022-10-02 23:43:58 | [main] userregistrationproblem.App (App.java:10) - Regex Practise Problem
+INFO  | 2022-10-02 23:43:58 | [main] userregistrationproblem.UserRegistration (UserRegistration.java:30) - Please enter first name: 
+INFO  | 2022-10-02 23:49:08 | [main] userregistrationproblem.App (App.java:10) - Regex Practise Problem
+INFO  | 2022-10-02 23:49:08 | [main] userregistrationproblem.UserRegistration (UserRegistration.java:52) - Please enter first name: 
+INFO  | 2022-10-06 15:04:01 | [main] userregistrationproblem.App (App.java:11) - Regex Practise Problem
+INFO  | 2022-10-06 15:04:01 | [main] userregistrationproblem.App (App.java:11) - Regex Practise Problem
+INFO  | 2022-10-06 15:04:01 | [main] userregistrationproblem.UserRegistration (UserRegistration.java:60) - Please enter first name: 
+INFO  | 2022-10-06 15:04:01 | [main] userregistrationproblem.UserRegistration (UserRegistration.java:60) - Please enter first name: 
+INFO  | 2022-10-06 16:35:35 | [main] userregistrationproblem.App (App.java:10) - Regex Practise Problem
+INFO  | 2022-10-06 16:35:35 | [main] userregistrationproblem.UserRegistration (UserRegistration.java:60) - Please enter first name: 
+INFO  | 2022-10-07 18:43:33 | [main] userregistrationproblem.App (App.java:12) - Regex Practise Problem
+INFO  | 2022-10-07 18:43:33 | [main] userregistrationproblem.UserRegistration (UserRegistration.java:42) - Please enter first name: 
+INFO  | 2022-10-27 00:46:21 | [main] userregistrationproblem.App (App.java:12) - Regex Practise Problem
+INFO  | 2022-10-27 00:46:21 | [main] userregistrationproblem.UserRegistration (UserRegistration.java:34) - Please enter first name: 
+INFO  | 2022-10-27 00:46:28 | [main] userregistrationproblem.UserRegistration (UserRegistration.java:85) - Invalid Input detected!
+INFO  | 2022-10-27 00:46:39 | [main] userregistrationproblem.App (App.java:12) - Regex Practise Problem
+INFO  | 2022-10-27 00:46:39 | [main] userregistrationproblem.UserRegistration (UserRegistration.java:34) - Please enter first name: 
+INFO  | 2022-10-27 00:46:52 | [main] userregistrationproblem.UserRegistration (UserRegistration.java:85) - Invalid Input detected!
+INFO  | 2022-10-27 00:47:47 | [main] userregistrationproblem.App (App.java:12) - Regex Practise Problem
+INFO  | 2022-10-27 00:47:47 | [main] userregistrationproblem.UserRegistration (UserRegistration.java:34) - Please enter first name: 
+INFO  | 2022-10-27 00:47:52 | [main] userregistrationproblem.UserRegistration (UserRegistration.java:39) - Rajshri
+INFO  | 2022-10-27 00:47:52 | [main] userregistrationproblem.UserRegistration (UserRegistration.java:44) - Please enter last name: 
+INFO  | 2022-10-27 00:47:58 | [main] userregistrationproblem.UserRegistration (UserRegistration.java:49) - Wagh
+INFO  | 2022-10-27 00:47:58 | [main] userregistrationproblem.UserRegistration (UserRegistration.java:54) - Please enter Email Id: 
+INFO  | 2022-10-27 10:52:55 | [main] userregistrationproblem.App (App.java:10) - Regex Practise Problem
+INFO  | 2022-10-27 10:52:55 | [main] userregistrationproblem.UserRegistration (UserRegistration.java:42) - Please enter first name: 
+INFO  | 2022-10-27 10:53:11 | [main] userregistrationproblem.UserRegistration (UserRegistration.java:47) - Rajshri
+INFO  | 2022-10-27 10:53:11 | [main] userregistrationproblem.UserRegistration (UserRegistration.java:53) - Please enter last name: 
+INFO  | 2022-10-27 10:53:16 | [main] userregistrationproblem.UserRegistration (UserRegistration.java:58) - Mahajan
+INFO  | 2022-10-27 10:53:16 | [main] userregistrationproblem.UserRegistration (UserRegistration.java:65) - Please enter Email Id: 
+INFO  | 2022-10-27 10:53:36 | [main] userregistrationproblem.UserRegistration (UserRegistration.java:70) - mahajan.rajshri16@gmail.com
